@@ -16,10 +16,10 @@ This next phase will include:
 
 * 🔍 AI-assisted log parsing and anomaly detection
 * 📊 Real-time observability suggestions
-* 🤖 LLM-based shell command generation for remediation
+
 
 Stay tuned!
-
+👉 For now, documentation below is focused on creating the Docker image for any language so it can be containerized.
 ---
 
 # 🤖 AI-Assisted DevOps with Local LLMs (via Ollama)
