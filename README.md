@@ -19,8 +19,8 @@ This next phase will include:
 
 
 Stay tuned!
-👉 For now, documentation below is focused on creating the Docker image for any language so it can be containerized.
----
+
+For now, documentation below is focused on creating the Docker image for any language so it can be containerized.
 
 # 🤖 AI-Assisted DevOps with Local LLMs (via Ollama)
 
